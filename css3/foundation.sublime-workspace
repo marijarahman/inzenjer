@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"scr",
+				"screenName"
+			],
+			[
+				"recen",
+				"recenzija"
+			],
+			[
+				"oba",
+				"obavezna"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"on",
+				"onmouseout	Attr"
+			],
+			[
+				"onmo",
+				"onmouseover	Attr"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"sans",
+				"Sans"
+			],
+			[
+				"max",
+				"max-height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Z/Platypus Projects/TemplateDev/index.html",
+		"/C/Users/stanl_000/Downloads/Website2015Spring/css/foundation.css",
+		"/C/Users/stanl_000/Downloads/Website2015Spring/index.html",
+		"/C/Users/stanl_000/Downloads/w/wp-blog-header.php",
+		"/C/Users/stanl_000/Downloads/Website2015Spring/js/foundation/foundation.js",
+		"/C/Users/stanl_000/Downloads/Website2015Spring/js/foundation/foundation.magellan.js",
+		"/C/Users/stanl_000/Downloads/Website2015Spring/js/vendor/jquery.js",
+		"/C/Users/stanl_000/Downloads/PREVOD/includes/wc-template-functions.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/includes/class-wc-checkout.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/includes/class-wc-countries.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/checkout/thankyou.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/checkout/review-order.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/checkout/payment.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/checkout/form-pay.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/checkout/form-checkout.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/checkout/form-billing.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/checkout/cart-errors.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/meta-boxes/class-wc-meta-box-order-data.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/includes/class-wc-coupon.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/checkout/form-coupon.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/global/form-login.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/myaccount/form-login.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/form-login.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/wc-template-functions.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/class-wc-shipping-free-shipping.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/shipping-calculator.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/cart-shipping.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/cart-totals.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/cart.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/wc-cart-functions.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/abstract-wc-product.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/class-wc-frontend-scripts.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/class-wc-product-simple.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/related.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/product-attributes.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/html-quick-edit-product.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/class-wc-meta-box-product-data.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/additional-information.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/form-shipping.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/meta.php",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/RESENJA/5d.html",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/RESENJA/5a.txt",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/RESENJA/5c.html",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/5a.json",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/RESENJA/6.html",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/scriptSeptembar.js",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/RESENJA/5b.html",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/septembar2014.html",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/4ab.xml",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/RESENJA/4ab.xml",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/sesti.js",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/RESENJA/6.css",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/RESENJA/3.html",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/RESENJA/2.html",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/4g.rss",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/RESENJA/4h.xml",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/4g.xsl",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/4d.css",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/RESENJA/4g.xsl",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/RESENJA/4d.css",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/RESENJA/4c.xml",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/RESENJA/4c.css",
+		"/C/Users/stanl_000/Downloads/Septembar 2014/4c.xml",
+		"/C/Users/stanl_000/Desktop/ispit.html",
+		"/C/Users/stanl_000/Downloads/PREVOD/single-product-reviews.php",
+		"/C/Users/stanl_000/Downloads/w/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-meta-boxes.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/template-contact.php",
+		"/C/Users/stanl_000/Downloads/w/wp-content/plugins/woocommerce/templates/myaccount/form-login.php",
+		"/C/Users/stanl_000/Downloads/w/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php",
+		"/C/Users/stanl_000/Downloads/w/wp-content/plugins/woocommerce/templates/myaccount/form-lost-password.php",
+		"/C/Users/stanl_000/Downloads/w/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-my-account.php",
+		"/C/Users/stanl_000/Downloads/w/wp-content/plugins/woocommerce/includes/wc-user-functions.php",
+		"/C/Users/stanl_000/Downloads/w/wp-content/plugins/woocommerce/templates/loop/result-count.php",
+		"/C/Users/stanl_000/Downloads/PREVOD/contact-page.php",
+		"/C/Users/stanl_000/Downloads/w/.htaccess",
+		"/C/Users/stanl_000/Downloads/PREVOD/content-fullpost.php",
+		"/C/Users/stanl_000/Downloads/w/wp-content/themes/virtue/templates/content-fullpost.php",
+		"/C/Users/stanl_000/Downloads/w/wp-content/plugins/virtue-toolkit/languages/de_DE.po",
+		"/C/Users/stanl_000/Downloads/PREVOD/comments.php",
+		"/C/Users/stanl_000/Downloads/w/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php",
+		"/C/Users/stanl_000/Desktop/wc-template-functions.php",
+		"/C/Users/stanl_000/Downloads/sajt/sajt/stil.css",
+		"/C/Users/stanl_000/Downloads/sajt/sajt/index.html",
+		"/C/Users/stanl_000/Downloads/sajt/sajt/js/skript.js",
+		"/C/Users/stanl_000/Downloads/sajt/sajt/deca.html",
+		"/C/Users/stanl_000/Downloads/JQuery kodovi/jquery1-code/chapter_05/05_dropdown_menu/script.js",
+		"/C/Users/stanl_000/Downloads/JQuery kodovi/jquery1-code/chapter_05/05_dropdown_menu/index.html",
+		"/C/Users/stanl_000/Downloads/JQuery kodovi/jquery1-code/chapter_05/05_dropdown_menu/menus.css",
+		"/C/Users/stanl_000/SkyDrive/Documents/style.css",
+		"/C/Users/stanl_000/SkyDrive/Documents/script.js",
+		"/C/Users/stanl_000/SkyDrive/Documents/index.html",
+		"/C/Users/stanl_000/Desktop/deleteTemporaryFiles.ps1",
+		"/C/Users/stanl_000/Downloads/Gorana Blog/Gorana Blog/script.js",
+		"/C/Users/stanl_000/Downloads/Gorana Blog/Gorana Blog/style.css",
+		"/C/Users/stanl_000/Downloads/Gorana Blog/Gorana Blog/gallery.html",
+		"/C/Users/stanl_000/Downloads/Gorana Blog/Gorana Blog/index.html",
+		"/C/Users/stanl_000/Downloads/Gorana Blog/Gorana Blog/sign.html",
+		"/C/Users/stanl_000/Downloads/Gorana Blog/Gorana Blog/signup.html",
+		"/C/Users/stanl_000/Downloads/Gorana Blog/Gorana Blog/contact.html",
+		"/C/Users/stanl_000/SkyDrive/Documents/Gorana Blog/Gorana Blog/signup.html",
+		"/C/Users/stanl_000/Desktop/index2.html",
+		"/C/Users/stanl_000/Desktop/contacts.csv",
+		"/C/Users/stanl_000/SkyDrive/Documents/Gorana Blog/Gorana Blog/index.html",
+		"/C/Users/stanl_000/SkyDrive/Documents/Gorana Blog/Gorana Blog/style.css",
+		"/C/Users/stanl_000/Downloads/contacts (1).csv",
+		"/C/Users/stanl_000/Contacts/Aca bas.contact",
+		"/C/Users/stanl_000/Desktop/index.html",
+		"/C/Users/stanl_000/Desktop/style.css",
+		"/C/Users/stanl_000/Desktop/quark/style.css",
+		"/C/Users/stanl_000/Desktop/quark/readme.txt",
+		"/C/Users/stanl_000/Desktop/quark/content-aside.php",
+		"/C/Users/stanl_000/Desktop/quark/content.php",
+		"/C/Users/stanl_000/Desktop/quark/category.php",
+		"/C/Users/stanl_000/Desktop/quark/tag.php",
+		"/C/Users/stanl_000/Desktop/quark/single.php",
+		"/C/Users/stanl_000/Desktop/quark/sidebar-front.php",
+		"/C/Users/stanl_000/Desktop/quark/css/grid.css",
+		"/C/Users/stanl_000/Desktop/quark/content-audio.php",
+		"/C/Users/stanl_000/Desktop/quark/content-chat.php",
+		"/C/Users/stanl_000/Desktop/quark/content-gallery.php",
+		"/C/Users/stanl_000/Desktop/quark/content-image.php",
+		"/C/Users/stanl_000/Desktop/quark/content-link.php",
+		"/C/Users/stanl_000/Desktop/quark/content-page.php",
+		"/C/Users/stanl_000/Desktop/quark/content-postarchives.php",
+		"/C/Users/stanl_000/Desktop/quark/content-quote.php",
+		"/C/Users/stanl_000/Desktop/quark/content-status.php",
+		"/C/Users/stanl_000/Desktop/quark/content-video.php",
+		"/C/Users/stanl_000/Desktop/quark/functions.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\Users\\stanl_000\\Downloads\\w"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"333",
+			"334",
+			"portLink",
+			"<span",
+			"<div>",
+			"container",
+			"orbit",
+			"orbit-",
+			"orbit",
+			"</span>",
+			"<span",
+			" span",
+			"span.",
+			"menu-item",
+			"sub-nav",
+			"magellan",
+			"'Search'",
+			"Search",
+			"search",
+			"Coupon does not exist!",
+			"place order",
+			"order notes",
+			"Town / City",
+			"Billing Details",
+			"Please enter a coupon code.",
+			"Have a coupon?",
+			"Username or email",
+			"Username or email *",
+			"Username or email",
+			"Returning customer",
+			"Coupon does not exist!",
+			"Free shipping",
+			"Proceed to checkout",
+			"free shipping",
+			"Calculate Shipping",
+			"cart totals",
+			"apply coupon",
+			"view cart",
+			"add to cart",
+			"View cart",
+			"add to cart",
+			"Related Products",
+			"Dimensions",
+			"Weight",
+			"Additional Information",
+			"Category:",
+			"READ MORE",
+			"li",
+			"address",
+			"screen",
+			"Category: ",
+			"Category:",
+			"Reviews",
+			"Reviews :",
+			"Reviews:",
+			"single",
+			"Category:",
+			"Category: ",
+			"<a href=\"%1$s\">",
+			"a href",
+			"categor",
+			"BACK TO",
+			"There are no reviews yet.",
+			"BACK TO",
+			"Showing the single result",
+			"Please provide a valid email address.",
+			"Enter a username or e-mail address.",
+			"Lost your password? Please enter your username or email address. You will receive a link to create a new password via email.",
+			"username is ",
+			"Username is required",
+			"Error: Username is required.",
+			"Username or email address",
+			"Username or email required",
+			"READ MORE",
+			"This field is required",
+			"echo",
+			"php _",
+			"thank",
+			"Send Email",
+			"Continued",
+			"Logged in as",
+			"Responses",
+			"response",
+			"posted in:",
+			"posted in: ",
+			"posted in",
+			"Your cart is currently empty",
+			"The following addresses will be used on the checkout page by default.",
+			"My Addresses",
+			"From your account dashboard you can view your recent orders, manage your shipping and billing addresses ",
+			"\"Search\"",
+			"Search",
+			"search",
+			"Search",
+			"search",
+			"Search",
+			"READ MORE",
+			"read",
+			"search",
+			"SORT BY NEWNESS",
+			"#menu",
+			"img",
+			"active",
+			".active",
+			"on(",
+			"box-sha",
+			"txt",
+			"login",
+			".tab",
+			"š",
+			"Š",
+			"ž",
+			"Ž",
+			"arkovi",
+			"?",
+			"mobile",
+			",\n ",
+			"  ",
+			"9 ",
+			"8 ",
+			"7 ",
+			"6 ",
+			"5 ",
+			"4 ",
+			"3 ",
+			"2 ",
+			"1 ",
+			"0 "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"</div>",
+			"<div",
+			" div",
+			"div.",
+			"#tab",
+			"s",
+			"S",
+			"z",
+			"Z",
+			"c",
+			"c\n",
+			",\n",
+			" ",
+			"9,",
+			"8,",
+			"7,",
+			"6,",
+			"5,",
+			"4,",
+			"3,",
+			"2,",
+			"1,",
+			"0,",
+			"",
+			",+",
+			",0",
+			" ",
+			",",
+			"c",
+			"c ",
+			"c",
+			"ć",
+			"Z",
+			"z",
+			"c",
+			"C",
+			"Dj",
+			"dj",
+			"S",
+			"s",
+			"#000000",
+			"font-family: 'Open Sans', sans-serif;",
+			"view-second"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "foundation.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
